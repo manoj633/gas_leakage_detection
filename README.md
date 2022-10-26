@@ -4,7 +4,7 @@
 
 <p id="description">The purpose of this system is to detect gas leakage neutralize it and prevent explosion. Gas leakage could happen due to improper regulator installation or the hose being broken.</p>
 
-<p align="center"><img src="https://img.shields.io/github/license/manoj633/gas_leakage_detection" alt="shields"><img src="https://img.shields.io/github/stars/manoj633/gas_leakage_detection" alt="shields"><img src="https://img.shields.io/github/forks/manoj633/gas_leakage_detection" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/github/license/manoj633/gas_leakage_detection" alt="shields">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/manoj633/gas_leakage_detection" alt="shields">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/forks/manoj633/gas_leakage_detection" alt="shields"></p>
 
 <h2>Project Schematics:</h2>
 <br><br>
